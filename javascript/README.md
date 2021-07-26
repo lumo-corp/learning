@@ -2,4 +2,6 @@
 
 ## 基礎
 
+- [コンソールへの出力](./basic/console.md)
+- [変数](./basic/variables.md)
 - [関数](./basic/functions.md)
