@@ -2,4 +2,4 @@
 
 ## 基礎
 
-- [関数](./functions.md)
+- [関数](./basic/functions.md)
