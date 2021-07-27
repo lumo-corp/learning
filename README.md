@@ -4,4 +4,6 @@
 
 マークダウンで記述されているので、誤字脱字等あれば修正（プルリク）お願いします。
 
-- [JavaScript](./javascript/README.md) 2021/07/26 23:51 Basic 3つを更新
+- [JavaScript](./javascript/README.md)
+- [Node.js](./nodejs/README.md)
+- [Discord](./discord/README.md)
