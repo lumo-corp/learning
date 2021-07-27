@@ -38,5 +38,7 @@ tsc index.ts
 
 パッケージをインストールする際の種類は以下の通り。
 
-- 通常インストール（`-saveを付けた場合も同様`）
-- 
+- dependencies（`--saveは使用しても良いが不要`）
+- devDependencies
+
+主な違いは、*開発時に用いるか否か* 。`devDependencies`としてインストールしたい場合は、`--save-dev`オプションを付けて`npm install`する。
