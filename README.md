@@ -6,6 +6,8 @@
 
 マークダウンで記述されているので、誤字脱字等あれば修正依頼のPull Requestをお願いします。また、何か書き残したい場合は是非どうぞ。クローンしなくてもある程度はGitHub.com上で編集可能です。（書き込み権限がなければ連絡をお願いします。）
 
+## カテゴリー一覧
+
 - [JavaScript](./javascript/README.md)
 - [Node.js](./nodejs/README.md)
 - [Discord](./discord/README.md)
