@@ -6,7 +6,7 @@
 # npm
 npm init nuxt-app プロジェクト名
 # npx
-npx create-nuxt-app <project-name>
+npx create-nuxt-app プロジェクト名
 # Yarn
 yarn create nuxt-app プロジェクト名
 ```
