@@ -10,6 +10,7 @@
 
 - [JavaScript](./javascript/README.md)
 - [Node.js](./nodejs/README.md)
+- [Git](./git/README.md)
 - [Discord](./discord/README.md)
 
 ## GitHub.com上でのファイル追加
