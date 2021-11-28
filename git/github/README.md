@@ -1,5 +1,4 @@
 # GitHub
 
-## 機能
-
-GitHubにはデプロイの自動化などさまざまな機能があり、例としては、GitHub Actionsを使って、コミットしたタイミングでビルドが走り、その結果がGitHub Pagesにデプロイされるといったものがある。実行するコマンド（ビルドコマンド`npm run build`など）をymlファイルに記述しワークフローを作成していく。
+- [GitHub Actions](./actions)
+- [Pull Request](./pull_request)
